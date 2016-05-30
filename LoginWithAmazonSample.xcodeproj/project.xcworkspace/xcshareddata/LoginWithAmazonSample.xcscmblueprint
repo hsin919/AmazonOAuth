@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "ABA636F0257FFA68F2ECD0B1D8DFB31E5782128E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "45B92BF36B729B82BEA09F737854DFC99A82DFBD" : 0,
+    "ABA636F0257FFA68F2ECD0B1D8DFB31E5782128E" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "AE4747AD-6F9C-4AC3-9BFD-2CB53934A663",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "45B92BF36B729B82BEA09F737854DFC99A82DFBD" : "",
+    "ABA636F0257FFA68F2ECD0B1D8DFB31E5782128E" : "LoginWithAmazonSDK-iOS-Swift\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "LoginWithAmazonSample",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "LoginWithAmazonSample.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/zoufishanmehdi\/AmazonOAuth.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "45B92BF36B729B82BEA09F737854DFC99A82DFBD"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Derek316x\/LoginWithAmazonSDK-iOS-Swift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "ABA636F0257FFA68F2ECD0B1D8DFB31E5782128E"
+    }
+  ]
+}
